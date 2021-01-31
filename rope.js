@@ -5,7 +5,7 @@ class Rope{
    var options={
        bodyA:bodyA,
        bodyB:bodyB,
-       pointB:{x:this.offsetX, y:this.offset}
+       pointB:{x:this.offsetX, y:this.offsetX}
        
    }
 
